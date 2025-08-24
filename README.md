@@ -13,7 +13,8 @@ git clone https://github.com/MuhammadZeeshan92/WEB-ASCEND-PROJECT-1.git
 
 2. Navigate to the project folder:  
 ```bash
-cd photography-club
+cd WEB-ASCEND-PROJECT-1
+
 ```
 
 3. Open the project in your browser (no dependencies needed since it’s pure HTML).  
